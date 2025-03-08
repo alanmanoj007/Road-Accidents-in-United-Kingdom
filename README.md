@@ -15,8 +15,12 @@ regulations, and awareness campaigns, to reduce casualties and fatalities.
 
 # Dashboard Link - 
 <a href = "https://github.com/alanmanoj007/Road-Accidents-in-United-Kingdom/blob/main/Road%20Accidents%20in%20United%20Kingdom%2C%20Tableau%20Project.twbx">View Dashboard</a>
+
+
 # Dashboard Image -
-<a href = "https://github.com/alanmanoj007/Road-Accidents-in-United-Kingdom/blob/main/Screenshot%202025-03-08%20120313.png">Dashboard Image</a>
+![Screenshot 2025-03-08 120313](https://github.com/user-attachments/assets/1b240f57-7c3b-4b83-af33-b2a8c33efeff)
+
+
 ## SUGGESTION 
 1) Road Safety Optimization: 
     Implement speed reduction measures (e.g., speed cameras, smart signals) in high-accident 
